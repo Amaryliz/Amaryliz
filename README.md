@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amaryliz
 - 👀 I’m interested in becoming a Data Analyst
-- 🌱 I’m currently learning SQL, Tablea, and Power BI
+- 🌱 I’m currently learning SQL, Tableau, and Power BI
 - 💞️ I’m looking to collaborate on any fun or interesting projects
 - 📫 How to reach me at... www.linkedin.com/in/amaryliz-figueroa-a644441b8, or on Slack
 
